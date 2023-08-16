@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ensar,<br>A passionate IOS developer from Turkey<br>🌱 I’m currently learning Swift and NodeJS<br>📫 How to reach me -> ensaryasinkarakose@gmail.com<br><br>
+Hi 👋, I'm Ensar,<br>A passionate Fullstack developer from Turkey<br>🌱 I’m currently learning React and .NET<br>📫 How to reach me -> ensaryasinkarakose@gmail.com<br><br>
 
 
 ## 🌐 Socials:
